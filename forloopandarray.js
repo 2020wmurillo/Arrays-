@@ -23,7 +23,7 @@ function example2(){
     return total;
 }
 
-function example3(){
+function index(){
 let p = pings [];
 for(let p = 0; p = ping.number;p++()
 total = p/ping.length
@@ -31,6 +31,11 @@ total = p/ping.length
 }
 
 function example4(){
+	let speeds = [];
+	for(let x = 0; x=speed.length; x++ )
+	if(index[x]>=95)
+	index.push (index[x])
+	return index;
 
 
 }
